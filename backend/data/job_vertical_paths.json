@@ -1,0 +1,359 @@
+{
+    "前端开发": {
+        "current_level": 2,
+        "job_family": "前端开发",
+        "previous_role": "前端开发助理",
+        "next_role": "高级前端开发",
+        "all_related": ["前端开发助理", "前端开发", "高级前端开发", "前端架构师"]
+    },
+    "实施工程师": {
+        "current_level": 2,
+        "job_family": "实施工程",
+        "previous_role": "实施助理",
+        "next_role": "高级实施工程师",
+        "all_related": ["实施助理", "实施工程师", "高级实施工程师", "实施经理"]
+    },
+    "科研人员": {
+        "current_level": 3,
+        "job_family": "科研",
+        "previous_role": "科研助理",
+        "next_role": "高级研究员",
+        "all_related": ["科研助理", "科研人员", "高级研究员", "首席科学家"]
+    },
+    "技术支持工程师": {
+        "current_level": 2,
+        "job_family": "技术支持",
+        "previous_role": "技术支持助理",
+        "next_role": "高级技术支持工程师",
+        "all_related": ["技术支持助理", "技术支持工程师", "高级技术支持工程师", "技术支持经理"]
+    },
+    "Java": {
+        "current_level": 2,
+        "job_family": "Java开发",
+        "previous_role": "Java实习工程师",
+        "next_role": "高级Java工程师",
+        "all_related": ["Java实习工程师", "Java", "高级Java工程师", "Java架构师"]
+    },
+    "软件测试": {
+        "current_level": 2,
+        "job_family": "软件测试",
+        "previous_role": "测试实习生",
+        "next_role": "高级测试工程师",
+        "all_related": ["测试实习生", "软件测试", "高级测试工程师", "测试经理"]
+    },
+    "C/C++": {
+        "current_level": 2,
+        "job_family": "C/C++开发",
+        "previous_role": "C/C++助理工程师",
+        "next_role": "高级C/C++工程师",
+        "all_related": ["C/C++助理工程师", "C/C++", "高级C/C++工程师", "C/C++架构师"]
+    },
+    "硬件测试": {
+        "current_level": 2,
+        "job_family": "硬件测试",
+        "previous_role": "硬件测试助理",
+        "next_role": "高级硬件测试工程师",
+        "all_related": ["硬件测试助理", "硬件测试", "高级硬件测试工程师", "硬件测试经理"]
+    },
+    "测试工程师": {
+        "current_level": 2,
+        "job_family": "测试工程",
+        "previous_role": "测试助理",
+        "next_role": "高级测试工程师",
+        "all_related": ["测试助理", "测试工程师", "高级测试工程师", "测试经理"]
+    },
+    "销售运营": {
+        "current_level": 2,
+        "job_family": "销售运营",
+        "previous_role": "销售运营助理",
+        "next_role": "销售运营经理",
+        "all_related": ["销售运营助理", "销售运营", "销售运营经理", "销售运营总监"]
+    },
+    "质量管理/测试": {
+        "current_level": 2,
+        "job_family": "质量管理",
+        "previous_role": "质检助理",
+        "next_role": "质量经理",
+        "all_related": ["质检助理", "质量管理/测试", "质量经理", "质量总监"]
+    },
+    "总助/CEO助理/董事长助理": {
+        "current_level": 2,
+        "job_family": "高管助理",
+        "previous_role": "行政助理",
+        "next_role": "高级总助",
+        "all_related": ["行政助理", "总助/CEO助理/董事长助理", "高级总助", "副总裁助理"]
+    },
+    "质检员": {
+        "current_level": 1,
+        "job_family": "质量检测",
+        "previous_role": null,
+        "next_role": "高级质检员",
+        "all_related": ["质检员", "高级质检员", "质检组长", "质量主管"]
+    },
+    "运营助理/专员": {
+        "current_level": 1,
+        "job_family": "运营",
+        "previous_role": null,
+        "next_role": "运营经理",
+        "all_related": ["运营助理/专员", "运营经理", "高级运营经理", "运营总监"]
+    },
+    "律师助理": {
+        "current_level": 1,
+        "job_family": "法律",
+        "previous_role": null,
+        "next_role": "律师",
+        "all_related": ["律师助理", "律师", "高级律师", "法务总监"]
+    },
+    "网络销售": {
+        "current_level": 1,
+        "job_family": "网络销售",
+        "previous_role": null,
+        "next_role": "网络销售经理",
+        "all_related": ["网络销售", "网络销售经理", "高级销售经理", "销售总监"]
+    },
+    "BD经理": {
+        "current_level": 3,
+        "job_family": "商务拓展",
+        "previous_role": "BD专员",
+        "next_role": "商务总监",
+        "all_related": ["BD专员", "BD经理", "高级BD经理", "商务总监"]
+    },
+    "APP推广": {
+        "current_level": 2,
+        "job_family": "APP推广",
+        "previous_role": "推广助理",
+        "next_role": "推广经理",
+        "all_related": ["推广助理", "APP推广", "推广经理", "市场总监"]
+    },
+    "资料管理": {
+        "current_level": 1,
+        "job_family": "资料管理",
+        "previous_role": null,
+        "next_role": "资料主管",
+        "all_related": ["资料管理", "资料主管", "档案经理", "信息主管"]
+    },
+    "猎头顾问": {
+        "current_level": 2,
+        "job_family": "猎头服务",
+        "previous_role": "猎头助理",
+        "next_role": "高级猎头顾问",
+        "all_related": ["猎头助理", "猎头顾问", "高级猎头顾问", "猎头总监"]
+    },
+    "档案管理": {
+        "current_level": 1,
+        "job_family": "档案管理",
+        "previous_role": null,
+        "next_role": "档案主管",
+        "all_related": ["档案管理", "档案主管", "档案经理", "信息资源总监"]
+    },
+    "律师": {
+        "current_level": 3,
+        "job_family": "法律",
+        "previous_role": "律师助理",
+        "next_role": "合伙人律师",
+        "all_related": ["律师助理", "律师", "合伙人律师", "法务总监"]
+    },
+    "招聘专员/助理": {
+        "current_level": 1,
+        "job_family": "招聘",
+        "previous_role": null,
+        "next_role": "招聘经理",
+        "all_related": ["招聘专员/助理", "招聘经理", "高级招聘经理", "人力资源总监"]
+    },
+    "储备经理人": {
+        "current_level": 1,
+        "job_family": "管理培训",
+        "previous_role": null,
+        "next_role": "部门经理",
+        "all_related": ["储备经理人", "部门经理", "高级经理", "运营总监"]
+    },
+    "培训师": {
+        "current_level": 2,
+        "job_family": "培训",
+        "previous_role": "培训助理",
+        "next_role": "高级培训师",
+        "all_related": ["培训助理", "培训师", "高级培训师", "培训总监"]
+    },
+    "咨询顾问": {
+        "current_level": 2,
+        "job_family": "咨询服务",
+        "previous_role": "咨询助理",
+        "next_role": "高级咨询顾问",
+        "all_related": ["咨询助理", "咨询顾问", "高级咨询顾问", "咨询总监"]
+    },
+    "统计员": {
+        "current_level": 1,
+        "job_family": "统计分析",
+        "previous_role": null,
+        "next_role": "统计分析师",
+        "all_related": ["统计员", "统计分析师", "高级统计师", "数据总监"]
+    },
+    "销售工程师": {
+        "current_level": 2,
+        "job_family": "技术销售",
+        "previous_role": "销售助理",
+        "next_role": "高级销售工程师",
+        "all_related": ["销售助理", "销售工程师", "高级销售工程师", "销售总监"]
+    },
+    "售后客服": {
+        "current_level": 1,
+        "job_family": "客户服务",
+        "previous_role": null,
+        "next_role": "客服主管",
+        "all_related": ["售后客服", "客服主管", "客服经理", "客户成功总监"]
+    },
+    "广告销售": {
+        "current_level": 1,
+        "job_family": "广告销售",
+        "previous_role": null,
+        "next_role": "广告销售经理",
+        "all_related": ["广告销售", "广告销售经理", "高级销售经理", "销售总监"]
+    },
+    "项目专员/助理": {
+        "current_level": 1,
+        "job_family": "项目管理",
+        "previous_role": null,
+        "next_role": "项目经理",
+        "all_related": ["项目专员/助理", "项目经理", "高级项目经理", "项目总监"]
+    },
+    "风电工程师": {
+        "current_level": 2,
+        "job_family": "新能源工程",
+        "previous_role": "风电助理工程师",
+        "next_role": "高级风电工程师",
+        "all_related": ["风电助理工程师", "风电工程师", "高级风电工程师", "新能源技术总监"]
+    },
+    "英语翻译": {
+        "current_level": 2,
+        "job_family": "语言服务",
+        "previous_role": "翻译助理",
+        "next_role": "高级翻译",
+        "all_related": ["翻译助理", "英语翻译", "高级翻译", "语言服务总监"]
+    },
+    "游戏推广": {
+        "current_level": 2,
+        "job_family": "游戏营销",
+        "previous_role": "推广助理",
+        "next_role": "推广经理",
+        "all_related": ["推广助理", "游戏推广", "推广经理", "市场总监"]
+    },
+    "项目招投标": {
+        "current_level": 2,
+        "job_family": "招投标管理",
+        "previous_role": "招投标助理",
+        "next_role": "招投标经理",
+        "all_related": ["招投标助理", "项目招投标", "招投标经理", "采购总监"]
+    },
+    "电话客服": {
+        "current_level": 1,
+        "job_family": "电话客服",
+        "previous_role": null,
+        "next_role": "客服组长",
+        "all_related": ["电话客服", "客服组长", "客服主管", "客服经理"]
+    },
+    "网络客服": {
+        "current_level": 1,
+        "job_family": "在线客服",
+        "previous_role": null,
+        "next_role": "客服组长",
+        "all_related": ["网络客服", "客服组长", "客服主管", "客服经理"]
+    },
+    "大客户代表": {
+        "current_level": 3,
+        "job_family": "大客户销售",
+        "previous_role": "销售代表",
+        "next_role": "大客户经理",
+        "all_related": ["销售代表", "大客户代表", "大客户经理", "销售总监"]
+    },
+    "内容审核": {
+        "current_level": 1,
+        "job_family": "内容安全",
+        "previous_role": null,
+        "next_role": "审核组长",
+        "all_related": ["内容审核", "审核组长", "审核主管", "内容安全经理"]
+    },
+    "项目经理/主管": {
+        "current_level": 3,
+        "job_family": "项目管理",
+        "previous_role": "项目专员",
+        "next_role": "项目总监",
+        "all_related": ["项目专员", "项目经理/主管", "高级项目经理", "项目总监"]
+    },
+    "知识产权/专利代理": {
+        "current_level": 2,
+        "job_family": "知识产权",
+        "previous_role": "IP助理",
+        "next_role": "高级专利代理师",
+        "all_related": ["IP助理", "知识产权/专利代理", "高级专利代理师", "知识产权总监"]
+    },
+    "管培生/储备干部": {
+        "current_level": 1,
+        "job_family": "管理培训",
+        "previous_role": null,
+        "next_role": "部门主管",
+        "all_related": ["管培生/储备干部", "部门主管", "部门经理", "运营总监"]
+    },
+    "社区运营": {
+        "current_level": 2,
+        "job_family": "社区运营",
+        "previous_role": "运营助理",
+        "next_role": "社区经理",
+        "all_related": ["运营助理", "社区运营", "社区经理", "运营总监"]
+    },
+    "销售助理": {
+        "current_level": 1,
+        "job_family": "销售",
+        "previous_role": null,
+        "next_role": "销售工程师",
+        "all_related": ["销售助理", "销售工程师", "销售经理", "销售总监"]
+    },
+    "储备干部": {
+        "current_level": 1,
+        "job_family": "管理培训",
+        "previous_role": null,
+        "next_role": "主管",
+        "all_related": ["储备干部", "主管", "经理", "总监"]
+    },
+    "电话销售": {
+        "current_level": 1,
+        "job_family": "电话销售",
+        "previous_role": null,
+        "next_role": "电销组长",
+        "all_related": ["电话销售", "电销组长", "电销主管", "销售总监"]
+    },
+    "游戏运营": {
+        "current_level": 2,
+        "job_family": "游戏运营",
+        "previous_role": "运营助理",
+        "next_role": "游戏运营经理",
+        "all_related": ["运营助理", "游戏运营", "游戏运营经理", "运营总监"]
+    },
+    "产品专员/助理": {
+        "current_level": 1,
+        "job_family": "产品",
+        "previous_role": null,
+        "next_role": "产品经理",
+        "all_related": ["产品专员/助理", "产品经理", "高级产品经理", "产品总监"]
+    },
+    "法务专员/助理": {
+        "current_level": 1,
+        "job_family": "法务",
+        "previous_role": null,
+        "next_role": "法务主管",
+        "all_related": ["法务专员/助理", "法务主管", "法务经理", "法务总监"]
+    },
+    "日语翻译": {
+        "current_level": 2,
+        "job_family": "语言服务",
+        "previous_role": "翻译助理",
+        "next_role": "高级翻译",
+        "all_related": ["翻译助理", "日语翻译", "高级翻译", "语言服务总监"]
+    },
+    "商务专员": {
+        "current_level": 2,
+        "job_family": "商务服务",
+        "previous_role": "商务助理",
+        "next_role": "商务经理",
+        "all_related": ["商务助理", "商务专员", "商务经理", "商务总监"]
+    }
+}

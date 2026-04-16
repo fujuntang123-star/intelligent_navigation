@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0ea5e9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  
+  <!-- 背景圆形 -->
+  <circle cx="64" cy="64" r="60" fill="url(#bg)" filter="url(#shadow)"/>
+  
+  <!-- 机器人头部 -->
+  <rect x="38" y="32" width="52" height="44" rx="12" fill="white" opacity="0.95"/>
+  
+  <!-- 眼睛 -->
+  <circle cx="52" cy="50" r="5" fill="#0ea5e9"/>
+  <circle cx="76" cy="50" r="5" fill="#0ea5e9"/>
+  <circle cx="52" cy="50" r="2" fill="white"/>
+  <circle cx="76" cy="50" r="2" fill="white"/>
+  
+  <!-- 嘴巴 -->
+  <rect x="52" y="62" width="24" height="3" rx="1.5" fill="#0ea5e9"/>
+  
+  <!-- 天线 -->
+  <line x1="64" y1="32" x2="64" y2="22" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.95"/>
+  <circle cx="64" cy="20" r="4" fill="#06b6d4"/>
+  <circle cx="64" cy="20" r="2" fill="white"/>
+  
+  <!-- 身体 -->
+  <rect x="42" y="80" width="44" height="24" rx="12" fill="white" opacity="0.95"/>
+  
+  <!-- 身体装饰 -->
+  <circle cx="64" cy="92" r="5" fill="#0ea5e9"/>
+</svg>
